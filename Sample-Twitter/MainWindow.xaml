@@ -1,0 +1,9 @@
+﻿<Window x:Class="Sample_Twitter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBlock Height="58" HorizontalAlignment="Left" Margin="17,24,0,0" Name="textBlock1" Text="Sample Twitter" VerticalAlignment="Top" Width="465" FontSize="40" />
+        <Button Content="Button" Height="23" HorizontalAlignment="Left" Margin="17,276,0,0" Name="button1" VerticalAlignment="Top" Width="75" />
+    </Grid>
+</Window>
