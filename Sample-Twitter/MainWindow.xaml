@@ -4,6 +4,7 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <TextBlock Height="58" HorizontalAlignment="Left" Margin="17,24,0,0" Name="textBlock1" Text="Sample Twitter" VerticalAlignment="Top" Width="465" FontSize="40" />
-        <Button Content="Button" Height="23" HorizontalAlignment="Left" Margin="17,276,0,0" Name="button1" VerticalAlignment="Top" Width="75" />
+        <Button Content="Button" Height="23" HorizontalAlignment="Left" Margin="17,276,0,0" Name="button1" VerticalAlignment="Top" Width="75" Background="#FF2A962A" Foreground="#FFFFEFEF" />
+        <TextBlock Height="56" HorizontalAlignment="Left" Margin="17,129,0,0" Name="textBlock2" Text="Feature_Branch_B" VerticalAlignment="Top" Width="310" Padding="20,10,0,0" FontSize="32" Background="#FFBFEFA8" />
     </Grid>
 </Window>
